@@ -21,6 +21,9 @@ WebP images are 25-34% smaller than compare to JPEG,PNG images.
    2) ``` <picture> <source srcset="images/logo.webp" type="image/webp">  <img src="images/logo.png" id="logo" alt="company logo(WebP is         not support)">  </picture>```
    
    3) CSS fallback 
-      Modernizr : Detection library that detects available features in browsers
-      follow this link for [CSS fallback WebP](https://css-tricks.com/using-webp-images/)
+      Modernizr : Detection library that detects available features in browsers.
+      For more info [CSS fallback WebP](https://css-tricks.com/using-webp-images/)
 
+### WebP Browser Support
+   
+   ![Kiku](WebpBrowserSupport.PNG) 
