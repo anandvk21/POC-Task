@@ -23,6 +23,10 @@ WebP images are 25-34% smaller than compare to JPEG,PNG images.
    3) CSS fallback 
       Modernizr : Detection library that detects available features in browsers
       [More info](https://css-tricks.com/using-webp-images/).
+ 
+#### Note: 
+   Min-Size: 1kb (Jpg, Png).    
+   Max-Size: 16383 x 16383(Resolution)
 
 ### WebP Browser Support
    
