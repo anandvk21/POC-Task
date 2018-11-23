@@ -27,6 +27,18 @@ WebP images are 25-34% smaller than compare to JPEG,PNG images.
 #### Note: 
    Min-Size: 1kb (Jpg, Png).    
    Max-Size: 16383 x 16383(Resolution)
+   
+#### Popular sites using WebP
+   Google.com
+   Sindonews.com
+   Manoramaonline.com
+   Alternativeto.net
+   Buscape.com.br
+   Cienradios.com
+   Carrefour.com.br
+   Centauro.com.br
+   Worldjournal.com
+   Sonos.com
 
 ### WebP Browser Support
    
